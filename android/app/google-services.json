@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526585809650",
+    "project_id": "barboo-ff2bb",
+    "storage_bucket": "barboo-ff2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526585809650:android:6b791af3fe7784156b9e6b",
+        "android_client_info": {
+          "package_name": "com.example.barboo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526585809650-82u91kvmd0gt56dhec5pft7hauu2t80u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barboo",
+            "certificate_hash": "0ca38e32208f11be5fc4ef47fcaa479b62affbde"
+          }
+        },
+        {
+          "client_id": "526585809650-tqa4id48m91ac2vun5o7hv95vf1nf525.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eWD8SwDzAZqcxJyrCNmsmrx7ozPfP2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526585809650-tqa4id48m91ac2vun5o7hv95vf1nf525.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
